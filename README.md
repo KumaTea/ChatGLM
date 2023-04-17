@@ -5,6 +5,10 @@ A Low-cost Deployment of
 with Practice of
 [ljsabc/Fujisaki](https://github.com/ljsabc/Fujisaki)
 
+<a target="_blank" href="https://colab.research.google.com/github/KumaTea/ChatGLM/blob/main/ChatGLM.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Benchmark
 
 ```python
