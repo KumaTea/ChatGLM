@@ -1,5 +1,9 @@
 # ChatGLM
-An Low-cost Deployment of THUDM/ChatGLM-6B with Practice of ljsabc/Fujisaki
+
+A Low-cost Deployment of
+[THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
+with Practice of
+[ljsabc/Fujisaki](https://github.com/ljsabc/Fujisaki)
 
 ## Benchmark
 
